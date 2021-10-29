@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/okadakaz/typescript-for-javascript-develop/issues"
   },
-  "homepage": "https://github.com/okadakaz/typescript-for-javascript-develop#readme"
+  "homepage": "https://github.com/okadakaz/typescript-for-javascript-develop#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
